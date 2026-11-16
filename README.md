@@ -7,7 +7,7 @@
 
 ↓ こちらからデモ版をプレイできます。（PCブラウザ推奨／Google Chrome・Microsoft Edgeで動作確認済み）
 
-[**Play PUMPKIN KNIGHT**](https://mitsuruyamaura.github.io/test_sample_game/)
+[**Play PUMPKIN KNIGHT**](https://mitsuruyamaura.github.io/pumpkin-knight-publisher/)
 
 ## Summary - ゲーム概要
 
