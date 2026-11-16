@@ -3,11 +3,6 @@
 **Key Visual**
 ![PUMPKIN KNIGHT](images/key_visual.png)
 
-公式サイト：
-https://mitsuruyamaura.github.io/pumpkin-knight-site/
-
----
-
 ## 🎃 Play
 
 ↓ こちらからデモ版をプレイできます。
@@ -147,11 +142,30 @@ https://mitsuruyamaura.github.io/pumpkin-knight-site/
 
 ![TUTORIALS](images/tutorial_3.jpg)
 
+---
 
-## Platform
+## GAMEPLAY VIDEO
+
+[YouTube 公式チャンネル](https://www.youtube.com/@PUMPKINKNIGHTOfficialChannel)
+
+---
+
+## PLATFORM
 
 - WebGL
-- steam(展開予定)
-- Nintendo Switch(展開予定)
-- Nintendo Switch 2(展開予定)
-- Android(検討中)
+- Steam（展開予定）
+- Nintendo Switch（展開予定）
+- Nintendo Switch 2（展開予定）
+- Android（検討中）
+
+---
+
+## OFFICIAL SITE
+
+[公式サイト](https://mitsuruyamaura.github.io/pumpkin-knight-site/)
+
+---
+
+## DEVELOPER
+
+[開発者プロフィール](https://github.com/mitsuruyamaura)
