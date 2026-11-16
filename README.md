@@ -5,7 +5,7 @@
 
 ## 🎃 Play
 
-↓ こちらからデモ版をプレイできます。
+↓ こちらからデモ版をプレイできます。（PCブラウザ推奨／Google Chrome・Microsoft Edgeで動作確認済み）
 
 [**Play PUMPKIN KNIGHT**](https://mitsuruyamaura.github.io/test_sample_game/)
 
