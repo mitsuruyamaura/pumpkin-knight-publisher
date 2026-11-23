@@ -27,7 +27,7 @@
 - [ゲーム企画書 43ページ（PDF）](documents/Pumpkin_Knight_Game_Design.pdf)
   - ゲームの世界観、システム、ゲームサイクルなどを紹介しています。
 
-- [追加企画書 11ページ（PDF）](documents/Pumpkin_Knight_Additionaal_Game_Design.pdf)
+- [追加企画書 11ページ（PDF）](documents/Pumpkin_Knight_Additional_Game_Design.pdf)
   - 最終決戦、クリア後の流れなどを紹介しています。
     
 - [開発・販売計画書 14ページ（PDF）](documents/Pumpkin_Knight_Development_Plan.pdf)
