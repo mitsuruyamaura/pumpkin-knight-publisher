@@ -9,6 +9,22 @@
 
 [**Play PUMPKIN KNIGHT**](https://mitsuruyamaura.github.io/pumpkin-knight-publisher/)
 
+---
+
+## 💻 Windows PC Build
+
+最新のWindows PC向けビルドはこちらからダウンロードできます。
+
+- [Download Latest PC Build](https://github.com/mitsuruyamaura/pumpkin-knight-publisher/releases/latest)
+
+リンク先ページ下部の「Assets」を開き、ZIPファイルをダウンロードしてください。
+
+ダウンロードしたZIPファイルを解凍し、フォルダ内の PUMPKIN_KNIGHT.exe を実行してください。
+
+※ 動作確認用の開発ビルドです。
+
+---
+
 ## Summary - ゲーム概要
 
 『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちを育成して試練に挑むローグライトゲームです。
